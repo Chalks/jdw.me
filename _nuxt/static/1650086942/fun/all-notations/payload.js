@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fun/all-notations", {data:[{}],fetch:{},mutations:void 0});
