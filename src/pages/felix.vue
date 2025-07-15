@@ -103,6 +103,14 @@ seo({
             >
                 <img src="/kiddos/meshcapade.png" class="mix-blend-difference object-contain group-hover:animate-wiggle" />
             </a>
+
+            <a
+                href="https://conwaylife.com/"
+                class="group"
+                target="_blank"
+            >
+                <img src="/kiddos/conwaylifecom.png" class="mix-blend-difference object-contain group-hover:animate-wiggle" />
+            </a>
         </div>
     </div>
 
