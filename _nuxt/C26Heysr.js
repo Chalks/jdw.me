@@ -1,0 +1,1 @@
+import{o as a,c as o,b as e,M as t,a as c,r,N as n}from"./CmMcGVsT.js";const l={class:"flex flex-col min-h-screen"},_={class:"content flex-grow overflow-auto"},m={__name:"default",setup(f){return(s,d)=>(a(),o("div",l,[e(t),c("div",_,[r(s.$slots,"default")]),e(n)]))}};export{m as default};
